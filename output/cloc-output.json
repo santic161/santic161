@@ -1,32 +1,32 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 7.57049202919006,
-  "n_files"            : 6080,
-  "n_lines"            : 1767182,
-  "files_per_second"   : 803.118209035414,
-  "lines_per_second"   : 233430.270210464,
+  "elapsed_seconds"    : 3.24434399604797,
+  "n_files"            : 3236,
+  "n_lines"            : 466513,
+  "files_per_second"   : 997.428140771097,
+  "lines_per_second"   : 143792.705264384,
   "report_file"        : "../output/cloc-output.json"},
-"JavaScript" :{
-  "nFiles": 3021,
-  "blank": 38628,
-  "comment": 170304,
-  "code": 1061774},
 "Python" :{
   "nFiles": 1094,
   "blank": 36451,
   "comment": 41439,
   "code": 147418},
-"TypeScript" :{
-  "nFiles": 513,
-  "blank": 8093,
-  "comment": 51499,
-  "code": 83089},
+"JavaScript" :{
+  "nFiles": 545,
+  "blank": 9437,
+  "comment": 8171,
+  "code": 67005},
 "D" :{
   "nFiles": 813,
   "blank": 0,
   "comment": 0,
   "code": 34679},
+"TypeScript" :{
+  "nFiles": 227,
+  "blank": 2990,
+  "comment": 831,
+  "code": 27758},
 "JSX" :{
   "nFiles": 81,
   "blank": 1473,
@@ -57,51 +57,36 @@
   "blank": 299,
   "comment": 136,
   "code": 1691},
-"Bourne Shell" :{
-  "nFiles": 40,
-  "blank": 287,
-  "comment": 562,
-  "code": 1211},
-"diff" :{
-  "nFiles": 2,
-  "blank": 97,
-  "comment": 280,
-  "code": 1150},
 "Assembly" :{
   "nFiles": 8,
   "blank": 47,
   "comment": 252,
   "code": 1083},
+"Bourne Shell" :{
+  "nFiles": 19,
+  "blank": 246,
+  "comment": 561,
+  "code": 1015},
 "make" :{
-  "nFiles": 28,
-  "blank": 167,
-  "comment": 136,
-  "code": 708},
-"DOS Batch" :{
-  "nFiles": 23,
-  "blank": 123,
-  "comment": 6,
-  "code": 571},
-"PowerShell" :{
-  "nFiles": 20,
-  "blank": 42,
-  "comment": 108,
-  "code": 511},
+  "nFiles": 25,
+  "blank": 151,
+  "comment": 123,
+  "code": 671},
 "Gradle" :{
   "nFiles": 10,
   "blank": 93,
   "comment": 204,
   "code": 474},
-"Windows Module Definition" :{
-  "nFiles": 5,
-  "blank": 83,
-  "comment": 0,
-  "code": 451},
 "Dockerfile" :{
   "nFiles": 12,
   "blank": 142,
   "comment": 213,
   "code": 311},
+"DOS Batch" :{
+  "nFiles": 5,
+  "blank": 87,
+  "comment": 6,
+  "code": 301},
 "Kotlin" :{
   "nFiles": 7,
   "blank": 56,
@@ -112,26 +97,26 @@
   "blank": 25,
   "comment": 0,
   "code": 164},
-"INI" :{
-  "nFiles": 18,
-  "blank": 46,
-  "comment": 150,
-  "code": 153},
 "Arduino Sketch" :{
   "nFiles": 1,
   "blank": 13,
   "comment": 14,
   "code": 126},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 18,
+  "code": 115},
+"INI" :{
+  "nFiles": 15,
+  "blank": 34,
+  "comment": 150,
+  "code": 108},
 "Pascal" :{
   "nFiles": 1,
   "blank": 28,
   "comment": 85,
   "code": 106},
-"CoffeeScript" :{
-  "nFiles": 7,
-  "blank": 23,
-  "comment": 11,
-  "code": 92},
 "Objective-C" :{
   "nFiles": 3,
   "blank": 18,
@@ -147,41 +132,26 @@
   "blank": 38,
   "comment": 95,
   "code": 56},
-"Bourne Again Shell" :{
-  "nFiles": 2,
-  "blank": 11,
-  "comment": 1,
-  "code": 43},
 "awk" :{
   "nFiles": 1,
   "blank": 2,
   "comment": 16,
   "code": 20},
-"Nix" :{
-  "nFiles": 1,
-  "blank": 1,
-  "comment": 0,
-  "code": 19},
 "Linker Script" :{
   "nFiles": 3,
   "blank": 9,
   "comment": 55,
   "code": 18},
-"peg.js" :{
-  "nFiles": 1,
-  "blank": 14,
-  "comment": 5,
-  "code": 16},
-"Lisp" :{
-  "nFiles": 2,
-  "blank": 0,
-  "comment": 0,
-  "code": 12},
 "m4" :{
   "nFiles": 1,
   "blank": 0,
   "comment": 0,
   "code": 8},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
 "ProGuard" :{
   "nFiles": 2,
   "blank": 3,
@@ -193,7 +163,7 @@
   "comment": 4,
   "code": 0},
 "SUM": {
-  "blank": 92953,
-  "comment": 280760,
-  "code": 1393469,
-  "nFiles": 6080} }
+  "blank": 58307,
+  "comment": 67558,
+  "code": 340648,
+  "nFiles": 3236} }
