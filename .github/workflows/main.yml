@@ -63,7 +63,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
+          git pull origin main
           # Number formatting: enable thousands separators for all printf in this step
           # LC_ALL/LANG must be set before any printf that uses %'d
 
