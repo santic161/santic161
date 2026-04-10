@@ -54,7 +54,7 @@ jobs:
           mkdir -p ../output
           # Count LOC for all cloned repos; exclude languages via cloc's own --exclude-lang so totals match SUM
           # NOTE: This does NOT apply .gitignore automatically across multiple repos; for per-repo .gitignore, run cloc per folder
-          cloc . --json --report-file=../output/cloc-output.json --exclude-lang="${IGNORE_LANGS}"
+          cloc --exclude-dir=node_modules . --json --report-file=../output/cloc-output.json --exclude-lang="${IGNORE_LANGS}"
 
       # Commit and push the updated cloc-output.json and README.md to the current branch
       - name: Commit and Push Output
