@@ -1,37 +1,138 @@
-<h1 align="center">Hi 👋, I'm Santino Canteli</h1>
-<h3 align="center">A passionate penetration tester - backend developer from Argentina</h3>
+<h1 align="center">👋 Santino Canteli</h1>
 
-- 🌱 I’m currently learning **CyberSecurity, Next.js, AWS**
+<h3 align="center">
+Application Security Engineer · AI Builder · Buenos Aires, Argentina 🇦🇷
+</h3>
 
-- 💬 Ask me about **Node.js, React.js**
-
-- 📫 How to reach me **santi.c161@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/santicanteli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santicanteli" height="30" width="40" /></a>
-<a href="https://instagram.com/santi_canteli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santi_canteli" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/santinocanteli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="santinocanteli" height="30" width="40" /></a>
+<p align="center">
+I design and build offensive security workflows, AI-driven systems and production-ready software focused on automation, scalability and real-world impact.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<hr/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santic161&show_icons=true&locale=en&layout=compact" alt="santic161" /></p>
+<h2>🧑‍💻 About me</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santic161&" alt="santic161" /></p>
+<ul>
+  <li>📍 Buenos Aires, Argentina</li>
+  <li>🛡️ Application Security Engineer at Hackmetrix</li>
+  <li>🧠 Focused on Offensive Security, AI Agents, Scrapping and Automation</li>
+  <li>⚙️ I build systems that combine AI + Security + Real-world workflows</li>
+</ul>
 
+<hr/>
 
+<h2>🚀 What I do</h2>
 
-<!-- LANGUAGES BREAKDOWN START --> 
-```
-[ LANGUAGES BREAKDOWN ]
+<ul>
+  <li>🔍 Web & Mobile Application Pentesting</li>
+  <li>🧠 AI-powered security tooling (multi-agent systems, orchestration, automation)</li>
+  <li>⚙️ Design of autonomous agents for offensive security workflows</li>
+  <li>📡 Automation of data extraction, monitoring and reporting pipelines</li>
+</ul>
 
-JavaScript   --> 67,005 lines
-TypeScript   --> 27,758 lines
-JSX          --> 23,529 lines
-Others       --> 222,356 lines
+<hr/>
 
-[ TOTAL LINES OF CODE: 340,648 ]
-```
+<h2>💼 Professional experience</h2>
+
+<ul>
+  <li>
+    🛡️ <b>Application Security Engineer</b> — Hackmetrix <br/>
+    <i>Oct 2024 - Present</i>
+    <ul>
+      <li>Performed web and mobile pentests for clients</li>
+      <li>Identified and reported vulnerabilities with technical + executive context</li>
+      <li>Worked on phishing simulations and security assessments</li>
+    </ul>
+  </li>
+</ul>
+
+<hr/>
+
+<h2>🧰 Tools I use daily</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>
+
+<hr/>
+
+<h2>💻 Languages and technologies</h2>
+
+<h3>Programming languages</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<h3>Frameworks & stack</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+</p>
+
+<h3>AI & automation</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge"/>
+</p>
+
+<hr/>
+
+<h2>⚙️ Areas of experience</h2>
+
+<ul>
+  <li>Offensive Security (Web & Mobile)</li>
+  <li>AI Agents & Autonomous Systems</li>
+  <li>Automation pipelines (scraping, monitoring, reporting)</li>
+  <li>SaaS architecture & monetization strategies</li>
+  <li>Security + AI integration</li>
+  <li>End-to-end product development</li>
+</ul>
+
+<hr/>
+
+<h2>📌 Profile focus</h2>
+
+<p>
+I focus on building systems that go beyond theory: real offensive security workflows, 
+AI agents that actually execute tasks, and SaaS products designed to generate revenue.  
+My goal is to merge cybersecurity, automation and AI into scalable, production-ready solutions.
+</p>
+
+<hr/>
+<h3> Code in Numbers</h3>  
+
+> Lines written, bugs fixed, projects built. Auto-updated weekly.
+
+<!-- LANGUAGES BREAKDOWN START -->
 <!-- LANGUAGES BREAKDOWN END -->
+
+<hr/>
+
+
+<h2>📫 Contact</h2>
+
+<p style="display:flex;align-items:center;gap:14px;">
+  <a href="mailto:santi.c161@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/santicanteli/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
+  </a>
+</p>
