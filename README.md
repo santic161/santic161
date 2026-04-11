@@ -120,6 +120,16 @@ My goal is to merge cybersecurity, automation and AI into scalable, production-r
 > Lines written, bugs fixed, projects built. Auto-updated weekly.
 
 <!-- LANGUAGES BREAKDOWN START -->
+```
+[ LANGUAGES BREAKDOWN ]
+
+JavaScript   --> 79,743 lines
+TypeScript   --> 27,758 lines
+JSX          --> 24,645 lines
+Others       --> 222,917 lines
+
+[ TOTAL LINES OF CODE: 355,063 ]
+```
 <!-- LANGUAGES BREAKDOWN END -->
 
 <hr/>
