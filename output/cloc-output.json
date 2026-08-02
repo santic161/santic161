@@ -1,32 +1,32 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 4.06213402748108,
-  "n_files"            : 4156,
-  "n_lines"            : 625472,
-  "files_per_second"   : 1023.10755181486,
-  "lines_per_second"   : 153976.209491998,
+  "elapsed_seconds"    : 4.20487189292908,
+  "n_files"            : 4258,
+  "n_lines"            : 650468,
+  "files_per_second"   : 1012.63489314865,
+  "lines_per_second"   : 154693.892361817,
   "report_file"        : "../output/cloc-output.json"},
 "Python" :{
-  "nFiles": 1372,
-  "blank": 43330,
-  "comment": 48213,
-  "code": 185915},
+  "nFiles": 1449,
+  "blank": 46471,
+  "comment": 50395,
+  "code": 197876},
 "JavaScript" :{
-  "nFiles": 926,
-  "blank": 16416,
-  "comment": 16643,
-  "code": 117066},
+  "nFiles": 939,
+  "blank": 16742,
+  "comment": 17170,
+  "code": 119343},
 "TypeScript" :{
-  "nFiles": 362,
-  "blank": 4432,
-  "comment": 1125,
-  "code": 44309},
+  "nFiles": 366,
+  "blank": 4520,
+  "comment": 1156,
+  "code": 46713},
 "JSX" :{
-  "nFiles": 125,
-  "blank": 2673,
-  "comment": 734,
-  "code": 40862},
+  "nFiles": 126,
+  "blank": 2773,
+  "comment": 834,
+  "code": 42355},
 "D" :{
   "nFiles": 813,
   "blank": 0,
@@ -53,10 +53,10 @@
   "comment": 230,
   "code": 4040},
 "SQL" :{
-  "nFiles": 73,
-  "blank": 430,
-  "comment": 528,
-  "code": 2812},
+  "nFiles": 76,
+  "blank": 443,
+  "comment": 606,
+  "code": 2911},
 "Bourne Shell" :{
   "nFiles": 30,
   "blank": 302,
@@ -71,7 +71,7 @@
   "nFiles": 29,
   "blank": 244,
   "comment": 375,
-  "code": 688},
+  "code": 689},
 "make" :{
   "nFiles": 25,
   "blank": 151,
@@ -88,10 +88,10 @@
   "comment": 204,
   "code": 474},
 "PowerShell" :{
-  "nFiles": 5,
-  "blank": 46,
-  "comment": 55,
-  "code": 310},
+  "nFiles": 7,
+  "blank": 58,
+  "comment": 78,
+  "code": 385},
 "DOS Batch" :{
   "nFiles": 5,
   "blank": 87,
@@ -112,16 +112,16 @@
   "blank": 25,
   "comment": 0,
   "code": 164},
+"INI" :{
+  "nFiles": 16,
+  "blank": 42,
+  "comment": 150,
+  "code": 141},
 "Arduino Sketch" :{
   "nFiles": 1,
   "blank": 13,
   "comment": 14,
   "code": 126},
-"INI" :{
-  "nFiles": 15,
-  "blank": 34,
-  "comment": 150,
-  "code": 108},
 "Pascal" :{
   "nFiles": 1,
   "blank": 28,
@@ -152,6 +152,11 @@
   "blank": 9,
   "comment": 55,
   "code": 18},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 17},
 "m4" :{
   "nFiles": 1,
   "blank": 0,
@@ -173,7 +178,7 @@
   "comment": 4,
   "code": 0},
 "SUM": {
-  "blank": 75246,
-  "comment": 84362,
-  "code": 465864,
-  "nFiles": 4156} }
+  "blank": 78941,
+  "comment": 87303,
+  "code": 484224,
+  "nFiles": 4258} }
