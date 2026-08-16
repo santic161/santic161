@@ -1,32 +1,32 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 4.54656505584717,
-  "n_files"            : 4373,
-  "n_lines"            : 678718,
-  "files_per_second"   : 961.825014331654,
-  "lines_per_second"   : 149281.488698182,
+  "elapsed_seconds"    : 4.22059917449951,
+  "n_files"            : 4502,
+  "n_lines"            : 700950,
+  "files_per_second"   : 1066.67319351259,
+  "lines_per_second"   : 166078.315191615,
   "report_file"        : "../output/cloc-output.json"},
 "Python" :{
   "nFiles": 1449,
-  "blank": 46471,
-  "comment": 50395,
-  "code": 197876},
+  "blank": 46508,
+  "comment": 50455,
+  "code": 198013},
 "JavaScript" :{
-  "nFiles": 1042,
-  "blank": 18730,
-  "comment": 24359,
-  "code": 134789},
-"TypeScript" :{
-  "nFiles": 366,
-  "blank": 4520,
-  "comment": 1156,
-  "code": 46713},
+  "nFiles": 1100,
+  "blank": 19893,
+  "comment": 26292,
+  "code": 145495},
 "JSX" :{
-  "nFiles": 130,
-  "blank": 2969,
-  "comment": 993,
-  "code": 44730},
+  "nFiles": 147,
+  "blank": 3192,
+  "comment": 1105,
+  "code": 48380},
+"TypeScript" :{
+  "nFiles": 399,
+  "blank": 4658,
+  "comment": 1196,
+  "code": 48141},
 "D" :{
   "nFiles": 813,
   "blank": 0,
@@ -53,15 +53,20 @@
   "comment": 230,
   "code": 4040},
 "SQL" :{
-  "nFiles": 83,
+  "nFiles": 84,
   "blank": 509,
-  "comment": 747,
-  "code": 3335},
+  "comment": 751,
+  "code": 3397},
+"Java" :{
+  "nFiles": 19,
+  "blank": 298,
+  "comment": 318,
+  "code": 1724},
 "Bourne Shell" :{
   "nFiles": 30,
-  "blank": 315,
-  "comment": 791,
-  "code": 1450},
+  "blank": 318,
+  "comment": 838,
+  "code": 1483},
 "Assembly" :{
   "nFiles": 8,
   "blank": 47,
@@ -69,9 +74,9 @@
   "code": 1083},
 "Dockerfile" :{
   "nFiles": 30,
-  "blank": 246,
-  "comment": 426,
-  "code": 715},
+  "blank": 247,
+  "comment": 447,
+  "code": 752},
 "make" :{
   "nFiles": 25,
   "blank": 151,
@@ -142,6 +147,11 @@
   "blank": 38,
   "comment": 95,
   "code": 56},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 49},
 "awk" :{
   "nFiles": 1,
   "blank": 2,
@@ -178,7 +188,7 @@
   "comment": 4,
   "code": 0},
 "SUM": {
-  "blank": 81206,
-  "comment": 94922,
-  "code": 502590,
-  "nFiles": 4373} }
+  "blank": 83074,
+  "comment": 97460,
+  "code": 520416,
+  "nFiles": 4502} }
