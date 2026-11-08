@@ -1,22 +1,22 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
-  "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 3.7716851234436,
-  "n_files"            : 5896,
-  "n_lines"            : 1047819,
-  "files_per_second"   : 1563.22699457394,
-  "lines_per_second"   : 277811.897257035,
+  "cloc_version"       : "2.06",
+  "elapsed_seconds"    : 8.59036707878113,
+  "n_files"            : 5923,
+  "n_lines"            : 1048641,
+  "files_per_second"   : 689.493236514918,
+  "lines_per_second"   : 122071.733417565,
   "report_file"        : "../output/cloc-output.json"},
 "Python" :{
-  "nFiles": 2184,
-  "blank": 77341,
-  "comment": 66906,
-  "code": 346886},
+  "nFiles": 2183,
+  "blank": 77335,
+  "comment": 66934,
+  "code": 346818},
 "JavaScript" :{
-  "nFiles": 1623,
-  "blank": 30091,
-  "comment": 55251,
-  "code": 222790},
+  "nFiles": 1625,
+  "blank": 30108,
+  "comment": 55272,
+  "code": 222906},
 "JSX" :{
   "nFiles": 176,
   "blank": 4355,
@@ -102,6 +102,16 @@
   "blank": 110,
   "comment": 15,
   "code": 374},
+"Fortran 77" :{
+  "nFiles": 19,
+  "blank": 8,
+  "comment": 0,
+  "code": 334},
+"Jinja Template" :{
+  "nFiles": 5,
+  "blank": 82,
+  "comment": 0,
+  "code": 282},
 "Bourne Again Shell" :{
   "nFiles": 2,
   "blank": 48,
@@ -132,11 +142,11 @@
   "blank": 13,
   "comment": 14,
   "code": 126},
-"Pascal" :{
-  "nFiles": 1,
+"PHP" :{
+  "nFiles": 2,
   "blank": 28,
-  "comment": 85,
-  "code": 106},
+  "comment": 73,
+  "code": 121},
 "Objective-C" :{
   "nFiles": 3,
   "blank": 18,
@@ -182,6 +192,11 @@
   "blank": 0,
   "comment": 0,
   "code": 6},
+"Snakemake" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
 "ProGuard" :{
   "nFiles": 2,
   "blank": 3,
@@ -193,7 +208,7 @@
   "comment": 4,
   "code": 0},
 "SUM": {
-  "blank": 126287,
-  "comment": 146802,
-  "code": 774730,
-  "nFiles": 5896} }
+  "blank": 126389,
+  "comment": 146839,
+  "code": 775413,
+  "nFiles": 5923} }
